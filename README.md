@@ -3,4 +3,4 @@ This file contains routes to the servers for our apps.
 ## Don't delete this file or repo!!
 The format of routes is: <app-name> - <server_ip>:<server_port>
 ## Routes
-factoria - 4.tcp.ngrok.io:10212
+factoria - 185.46.11.220:10001
